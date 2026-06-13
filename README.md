@@ -76,4 +76,4 @@ Enable faster and better business decisions.
 Support strategic and operational reporting requirements.
 
 
-Learning Outcomes
+Learning Outcomes- Hands on experience in data modelling
